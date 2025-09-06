@@ -37,7 +37,7 @@ public class TicketCounterStack {
 
         int option;
         do {
-            System.out.println("\n--- Menu ---");
+            System.out.println("\n Menu ");
             System.out.println("1. Push one Person");
             System.out.println("2. Push two Persons");
             System.out.println("3. Pop one Person");
@@ -117,6 +117,7 @@ public class TicketCounterStack {
         } while(option != 7);
     }
 }
+
 
 
 
