@@ -1,0 +1,25 @@
+Library Management System
+ 
+Overview
+A simple Java program to manage books in a library.
+You can add, issue, delete, display books, and exit.
+Includes JUnit tests to check the main features.
+
+ Features
+
+1.Add a book
+
+2.Issue a book
+
+3.Delete a book
+
+4.Display all books
+
+5.Exit program
+
+Example
+1. Add Book  
+2. Issue Book  
+3. Delete Book  
+4. Display Books  
+5. Exit  
